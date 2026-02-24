@@ -1,4 +1,8 @@
-
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JasperZebra/AFoP_CamoColorPalette_Editor?style=for-the-badge&logo=github&color=00ffff&logoColor=white&labelColor=1a4d66)](https://github.com/JasperZebra/AFoP_CamoColorPalette_Editor/releases)
+[![Total Downloads](https://img.shields.io/github/downloads/JasperZebra/AFoP_CamoColorPalette_Editor/total?style=for-the-badge&logo=github&color=00ffff&logoColor=white&labelColor=1a4d66)](https://github.com/JasperZebra/AFoP_CamoColorPalette_Editor/releases)
+[![Platform](https://img.shields.io/badge/platform-windows-00ffff?style=for-the-badge&logo=windows&logoColor=00ffff&labelColor=1a4d66)](https://github.com/JasperZebra/AFoP_CamoColorPalette_Editor)
+[![Made for](https://img.shields.io/badge/made%20for-Avatar:_Frontiers_of_Pandora-00ffff?style=for-the-badge&logo=gamepad&logoColor=00ffff&labelColor=1a4d66)](https://github.com/JasperZebra/AFoP_CamoColorPalette_Editor)
+[![Tool Type](https://img.shields.io/badge/type-palette%20editor-00ffff?style=for-the-badge&logo=package&logoColor=00ffff&labelColor=1a4d66)](https://github.com/JasperZebra/AFoP_CamoColorPalette_Editor)
 
 # AFoP_CamoColorPalette_Editor
 A lightweight modding tool for Avatar: Frontiers of Pandora that lets you edit gear and weapon camo color palettes directly inside .rejuice files — no hex editor required.
